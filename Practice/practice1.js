@@ -5,7 +5,5 @@ class test{
     }
 };
 
-
-
 var c = document.getElementById('my_canvas');
 console.log(c);
